@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- App Name && Activity Label -->
+    <string name="app_name">Share Ar</string>
+    <string name="app_title">Share Ar</string>
+    
+    <string name="action_settings">Settings</string>
+    <string name="action_new_room">Create Room</string>
+    <string name="action_exit">Exit</string>
+    
+    <string name="title_activity_room_member">RoomMemberActivity</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="title_activity_side_menu">SideMenuActivity</string>
+    <string name="title_activity_link">LinkActivity</string>
+    <string name="title_activity_new_user">Welcome, New User!</string>
+    
+    <string name="welcome_title"> SHARE AR</string>
+    <string name="first_use">First Time Here</string>
+    <string name="name_label">Name</string>
+    <string name="name_hint">What others have to call you?</string>
+    <string name="OK">OK</string>
+    <string name="search_room">Search room</string>
+    
+    <string name="room_prefix">SSID: </string>
+    <string name="hint_room">here for name</string>
+    <string name="hint_password">here for password</string>
+
+    <string-array name="nav_drawer_items">
+        <item>Home page</item>
+        <item>Member</item>
+        <item>Activities</item>
+        <item>Files</item>
+        <item>Off in</item>
+    </string-array>
+
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_people</item>
+        <item>@drawable/ic_photos</item>
+        <item>@drawable/ic_communities</item>
+        <item>@drawable/ic_pages</item>
+    </array>
+    
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+	
+    <string name="title">title</string>
+    <string name="add_new_act">Add Event</string>
+    <string name="zero">0</string>
+    <string name="title_activity_new_act">NewActActivity</string>
+    <string name="newtitle">Event name</string>
+    <string name="newdes">Activity Description</string>
+  	<string name="seltype">Select activity type</string>
+  	<string name="titlehint">Enter the name of the activity</string>
+  	<string name="deshint">Contents of the input activity</string>
+  	<string name="typeinfo">Contents of the input activity</string>
+  	<string name="buttonhintok">OK</string>
+	<string-array name="ActType">
+	    <item >Registration</item>
+	    <item >Vote</item>
+	    <item >Special Events</item>
+	</string-array>
+	<string name="file_des">File_name</string>
+    <string-array name="user_chat_names">
+        <item>name1</item>
+        <item>name2</item>
+        <item>name3</item>
+        <item>name4</item>
+        <item>name5</item>
+    </string-array>
+    <string-array name="user_chat_signs">
+        <item>I'm name1</item>
+        <item>I'm name2</item>
+        <item>I'm name3</item>
+        <item>I'm name4</item>
+        <item>I'm name5</item>
+    </string-array>
+    <array name="user_chat_avatars">
+        <item>@drawable/user_avatar_0</item>
+        <item>@drawable/user_avatar_1</item>
+        <item>@drawable/user_avatar_2</item>
+        <item>@drawable/user_avatar_3</item>
+        <item>@drawable/user_avatar_4</item>
+    </array>
+
+    <string name="about">ABOUT SHARE AR</string>
+    <string name="aboutContent">ShareAr Ad-Hoc ShareAr Ad-Hoc ShareAr Ad-Hoc ShareAr Ad-Hoc ShareAr Ad-Hoc</string>
+    
+</resources>
